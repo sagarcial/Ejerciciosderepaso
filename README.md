@@ -1,4 +1,4 @@
-# Codigos de Apuntadores
+# Ejercicios de repaso programacion basica
 ## Programación  Orientada a Objetos 
 Santiago Alexander Garcia Liscano
 Código 20231020189
